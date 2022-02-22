@@ -11,7 +11,7 @@
 @font-face {
     font-family: 'Ogg';
     src: url('https://static.tumblr.com/plmkxw9/ksQr7p1qv/ogg-roman-webfont.woff2') format('woff2'),
-         url(https://static.tumblr.com/plmkxw9/pz6r7p1ry/ogg-roman-webfont.woff') format('woff'),
+         url('https://static.tumblr.com/plmkxw9/pz6r7p1ry/ogg-roman-webfont.woff') format('woff'),
          url('https://static.tumblr.com/plmkxw9/Yl4r7p1ty/ogg-roman-webfont.ttf')  format('truetype'); 
 }
 
