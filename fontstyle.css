@@ -1,8 +1,8 @@
 @font-face {
     font-family: 'Ogg Italic';
-    src: url('https://github.com/yeosangs/ogg/blob/eaa2eb59053a8caad3849574661f966f5a6f6d3f/ogg-italic-webfont.woff2') format('woff2'),
-         url('https://github.com/yeosangs/ogg/blob/eaa2eb59053a8caad3849574661f966f5a6f6d3f/ogg-italic-webfont.woff') format('woff'),
-         url('https://github.com/yeosangs/ogg/blob/62a60b36751aa1c4618c2d6991dfe05dc7f76f7e/ogg-italic-webfont.ttf')  format('truetype');
+    src: url('https://static.tumblr.com/plmkxw9/6gMr7p1st/ogg-italic-webfont.woff2') format('woff2'),
+         url('https://static.tumblr.com/plmkxw9/ggsr7p1pm/ogg-italic-webfont.woff') format('woff'),
+         url('https://static.tumblr.com/plmkxw9/tJur7p1ut/ogg-italic-webfont.ttf')  format('truetype');
 }
 
 
@@ -10,7 +10,8 @@
 
 @font-face {
     font-family: 'Ogg';
-    src: url('https://github.com/yeosangs/ogg/blob/eaa2eb59053a8caad3849574661f966f5a6f6d3f/ogg-roman-webfont.woff2') format('woff2'),
-         url('https://github.com/yeosangs/ogg/blob/eaa2eb59053a8caad3849574661f966f5a6f6d3f/ogg-roman-webfont.woff') format('woff'),
-         url('https://github.com/yeosangs/ogg/blob/62a60b36751aa1c4618c2d6991dfe05dc7f76f7e/ogg-roman-webfont.ttf')  format('truetype'); 
+    src: url('https://static.tumblr.com/plmkxw9/ksQr7p1qv/ogg-roman-webfont.woff2') format('woff2'),
+         url(https://static.tumblr.com/plmkxw9/pz6r7p1ry/ogg-roman-webfont.woff') format('woff'),
+         url('https://static.tumblr.com/plmkxw9/Yl4r7p1ty/ogg-roman-webfont.ttf')  format('truetype'); 
 }
+
